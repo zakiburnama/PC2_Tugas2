@@ -1,1 +1,7 @@
-# PC2_Tugas2_NIM
+# PC2_Tugas2_nim
+### Nama
+### PC 2
+
+
+###### Buatlah web seperti di modul yang memiliki dan ubahlah tampilannya 
+> Screenshot tampilan dimasukkan dalam readme
